@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a passionate web developer specialized in **PHP** and **Laravel**. 🚀  
+I'm a web developer specialized in **PHP** and **Laravel**. 🚀  
 I am always looking for new challenges and opportunities to enhance my skills.  
 I believe that collaboration and continuous learning are essential for growth in the tech field.
 
