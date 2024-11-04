@@ -1,47 +1,22 @@
-# Olá, eu sou o Joelson! 👋
+## 👨‍💻 About Me
 
-### 🎮 Desenvolvedor Web e Amante de Jogos
+I'm a passionate web developer specialized in **PHP** and **Laravel**. 🚀  
+I am always looking for new challenges and opportunities to enhance my skills.  
+I believe that collaboration and continuous learning are essential for growth in the tech field.
 
-Sou um apaixonado desenvolvedor web focado em **backend**, especializado em **PHP**, **Laravel**, **Python** e **Django**. Além disso, sou um amante do desenvolvimento de jogos como hobby, onde aplico minha criatividade e habilidades de programação para criar experiências únicas.
+Feel free to reach out if you'd like to exchange ideas or collaborate on projects! 💬
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jsantos__2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joelson-mendon%C3%A7a-1084a5222/) 
 
-### 🛠 Tecnologias e Ferramentas
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelsonsmendonca&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" alt="Django" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display:inline-block; margin-right: 10px;" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Joelsonsmendonca&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🎯 Objetivo Atual
-
-Atualmente, meu principal objetivo é conseguir um **estágio** onde eu possa aplicar minhas habilidades e aprender em um ambiente profissional. Estou ansioso para contribuir e crescer como desenvolvedor.
-
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joelsonsmendonca&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelsonsmendonca&layout=compact&theme=radical)
-
----
-
-### 🌟 Citação Inspiradora
-
-> "Pensar é o trabalho mais difícil que existe. Talvez por isso tão poucos se dediquem a ele." - **Henry Ford**
-
----
-
-### 🌍 Vamos nos Conectar?
-
-Estou aberto a novas oportunidades e colaborações! Se você está procurando um desenvolvedor apaixonado e dedicado, não hesite em me contatar.
-
----
