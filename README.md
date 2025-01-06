@@ -10,8 +10,6 @@ Feel free to reach out if you'd like to exchange ideas or collaborate on project
 
 <br>
 
-![snake gif](https://github.com/Joelsonsmendonca/Joelsonsmendonca/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jsantos__2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelson-mendon%C3%A7a-1084a5222/) 
 
