@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a web developer specialized in **PHP** and **Laravel**. 🚀  
-I am always looking for new challenges and opportunities to enhance my skills.  
-I believe that collaboration and continuous learning are essential for growth in the tech field.
+I'm a Computer Science and Computer Engineering student driven by a passion for **high-performance software** and **game engine development**. 🚀
 
-Feel free to reach out if you'd like to exchange ideas or collaborate on projects! 💬
+My current focus is mastering modern **C++** to build a 2D game engine from scratch, tackling challenges from low-level memory management to graphics rendering. I also have professional experience as a Software Engineering Intern, developing backend solutions with **PHP** and **MySQL**.
+
+I thrive on solving complex engineering problems and am documenting my C++ journey here on GitHub. Feel free to reach out to connect or collaborate! 💬
 
 <br>
 
@@ -14,7 +14,7 @@ Feel free to reach out if you'd like to exchange ideas or collaborate on project
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jsantos__2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Joelson-Mendonca/) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Joelsonsmendonca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelsonsmendonca&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
